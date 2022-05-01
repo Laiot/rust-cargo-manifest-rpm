@@ -7,7 +7,7 @@
 Name:           rust-%{crate}
 Version:        0.2.6
 Release:        %autorelease
-Summary:        Helper crate to parse and manipulate manifests - `Cargo.toml` files
+Summary:        Helper crate to parse and manipulate manifests Cargo.toml files
 
 # Upstream license specification: Apache-2.0 OR MIT
 License:        ASL 2.0 or MIT
